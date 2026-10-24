@@ -1,0 +1,85 @@
+{
+  "input_file": "data\\SAFORA_clean_monthly_trends.csv",
+  "rows_after_deduplication": 244,
+  "queries": 4,
+  "invalid_dates_dropped": 0,
+  "invalid_interest_dropped": 0,
+  "outputs": [
+    "safora_multi_query_features.csv",
+    "safora_query_summary.csv",
+    "safora_multi_query_report.json"
+  ],
+  "important_limitations": [
+    "Google Trends values are relative-interest indices, not absolute search counts.",
+    "Separate exports may be independently normalized; do not compare raw interest levels across queries unless exported together under a common comparison.",
+    "Opportunity screening score is a heuristic, not a probability of sales or success.",
+    "Cross-platform confirmation, events, regional concentration, pricing, competition, and sales are not inferred when absent from the input.",
+    "Backtest is only a seasonal-naive baseline, not a trained ML model; monthly history is short for robust evaluation."
+  ],
+  "query_summaries": [
+    {
+      "query": "Naruto",
+      "observations": 61,
+      "nonzero_observations": 61,
+      "start_date": "2021-10-01",
+      "end_date": "2026-10-01",
+      "mean_interest_within_export": 68.78688524590164,
+      "latest_interest": 68.0,
+      "latest_momentum": 0.1656441717791411,
+      "latest_opportunity_screening_score": 54.211210531582,
+      "backtest_status": "baseline_only",
+      "reason": "Seasonal-naive baseline; not an ML model",
+      "n_test": 13,
+      "mae": 16.076923076923077,
+      "rmse": 19.048521040914274
+    },
+    {
+      "query": "anime figures",
+      "observations": 61,
+      "nonzero_observations": 61,
+      "start_date": "2021-10-01",
+      "end_date": "2026-10-01",
+      "mean_interest_within_export": 42.63934426229508,
+      "latest_interest": 61.0,
+      "latest_momentum": -0.05154639175257735,
+      "latest_opportunity_screening_score": 72.63226594691504,
+      "backtest_status": "baseline_only",
+      "reason": "Seasonal-naive baseline; not an ML model",
+      "n_test": 13,
+      "mae": 13.076923076923077,
+      "rmse": 18.363844075540644
+    },
+    {
+      "query": "anime merchandise",
+      "observations": 61,
+      "nonzero_observations": 61,
+      "start_date": "2021-10-01",
+      "end_date": "2026-10-01",
+      "mean_interest_within_export": 57.50819672131148,
+      "latest_interest": 15.0,
+      "latest_momentum": -0.48760330578512395,
+      "latest_opportunity_screening_score": 32.40167773578836,
+      "backtest_status": "baseline_only",
+      "reason": "Seasonal-naive baseline; not an ML model",
+      "n_test": 13,
+      "mae": 24.53846153846154,
+      "rmse": 30.2387932197139
+    },
+    {
+      "query": "one piece",
+      "observations": 61,
+      "nonzero_observations": 61,
+      "start_date": "2021-10-01",
+      "end_date": "2026-10-01",
+      "mean_interest_within_export": 45.78688524590164,
+      "latest_interest": 36.0,
+      "latest_momentum": -0.11382113821138205,
+      "latest_opportunity_screening_score": 45.963868534312084,
+      "backtest_status": "baseline_only",
+      "reason": "Seasonal-naive baseline; not an ML model",
+      "n_test": 13,
+      "mae": 8.076923076923077,
+      "rmse": 13.269397992257337
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+query,observations,nonzero_observations,start_date,end_date,mean_interest_within_export,latest_interest,latest_momentum,latest_opportunity_screening_score,backtest_status,reason,n_test,mae,rmse
+Naruto,61,61,2021-10-01,2026-10-01,68.78688524590164,68.0,0.1656441717791411,54.211210531582,baseline_only,Seasonal-naive baseline; not an ML model,13,16.076923076923077,19.048521040914274
+anime figures,61,61,2021-10-01,2026-10-01,42.63934426229508,61.0,-0.05154639175257735,72.63226594691504,baseline_only,Seasonal-naive baseline; not an ML model,13,13.076923076923077,18.363844075540644
+anime merchandise,61,61,2021-10-01,2026-10-01,57.50819672131148,15.0,-0.48760330578512395,32.40167773578836,baseline_only,Seasonal-naive baseline; not an ML model,13,24.53846153846154,30.2387932197139
+one piece,61,61,2021-10-01,2026-10-01,45.78688524590164,36.0,-0.11382113821138205,45.963868534312084,baseline_only,Seasonal-naive baseline; not an ML model,13,8.076923076923077,13.269397992257337

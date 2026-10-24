@@ -1,0 +1,90 @@
+{
+  "status": "success",
+  "input_file": "data\\SAFORA_clean_monthly_trends.csv",
+  "input_rows_after_validation": 244,
+  "queries": 4,
+  "method": "Expanding-window walk-forward evaluation; past-only lag/rolling features",
+  "models_compared": [
+    "seasonal_naive",
+    "RandomForestRegressor"
+  ],
+  "test_months_requested": 13,
+  "features": [
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "lag_6",
+    "lag_12",
+    "rolling_mean_3",
+    "rolling_mean_6",
+    "rolling_std_6",
+    "month_sin",
+    "month_cos"
+  ],
+  "warnings": [],
+  "limitations": [
+    "This predicts relative Google Trends interest, not sales, customers, revenue, or market size.",
+    "Only 61 monthly observations per query: results are experimental and may be unstable.",
+    "Separate Google Trends exports may be normalized independently; do not compare raw levels across queries as market size.",
+    "No future forecast is produced by this evaluation script; first inspect out-of-sample results.",
+    "Random forest is accepted only if it beats the baseline on held-out MAE; no accuracy claim is implied."
+  ],
+  "outputs": {
+    "predictions": "outputs\\safora_ml_forecast_predictions.csv",
+    "summary": "outputs\\safora_ml_forecast_summary.csv"
+  },
+  "summary": [
+    {
+      "query": "Naruto",
+      "observations": 61,
+      "test_months_requested": 13,
+      "test_rows_scored": 13,
+      "baseline_mae": 16.076923076923077,
+      "baseline_rmse": 19.048521040914274,
+      "random_forest_mae": 7.067394466644476,
+      "random_forest_rmse": 8.130048006600068,
+      "mae_improvement_percent_vs_baseline": 56.04013011178077,
+      "better_on_test_mae": "random_forest",
+      "status": "evaluated"
+    },
+    {
+      "query": "anime figures",
+      "observations": 61,
+      "test_months_requested": 13,
+      "test_rows_scored": 13,
+      "baseline_mae": 13.076923076923077,
+      "baseline_rmse": 18.363844075540644,
+      "random_forest_mae": 10.503761475703783,
+      "random_forest_rmse": 12.780107863438106,
+      "mae_improvement_percent_vs_baseline": 19.67711812697107,
+      "better_on_test_mae": "random_forest",
+      "status": "evaluated"
+    },
+    {
+      "query": "anime merchandise",
+      "observations": 61,
+      "test_months_requested": 13,
+      "test_rows_scored": 13,
+      "baseline_mae": 24.53846153846154,
+      "baseline_rmse": 30.2387932197139,
+      "random_forest_mae": 18.716911805493826,
+      "random_forest_rmse": 22.630153225709897,
+      "mae_improvement_percent_vs_baseline": 23.724183864758707,
+      "better_on_test_mae": "random_forest",
+      "status": "evaluated"
+    },
+    {
+      "query": "one piece",
+      "observations": 61,
+      "test_months_requested": 13,
+      "test_rows_scored": 13,
+      "baseline_mae": 8.076923076923077,
+      "baseline_rmse": 13.269397992257337,
+      "random_forest_mae": 8.64189467640588,
+      "random_forest_rmse": 13.398554284577978,
+      "mae_improvement_percent_vs_baseline": -6.994886469787083,
+      "better_on_test_mae": "seasonal_naive_or_tie",
+      "status": "evaluated"
+    }
+  ]
+}

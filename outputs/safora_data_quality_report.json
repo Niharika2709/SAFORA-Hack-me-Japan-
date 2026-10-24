@@ -1,0 +1,64 @@
+{
+  "source_files": {
+    "trends": "data\\time_series_IN_20211024-1307_20261024-1307.csv",
+    "anime_metadata": "data\\anime_dataset.csv",
+    "imdb_ratings": "data\\title.ratings.tsv.gz",
+    "events": null,
+    "cross_platform": null,
+    "video_game_sales": "data\\vgsales.csv.zip"
+  },
+  "trends_rows": 61,
+  "trends_valid_numeric_values": 61,
+  "trends_nonzero_values": 3,
+  "trends_unique_dates": 61,
+  "engineered_rows": 61,
+  "features_written": [
+    "rolling_mean_3",
+    "rolling_mean_6",
+    "previous_mean_3",
+    "search_momentum",
+    "trend_baseline",
+    "trend_consistency",
+    "volatility_std_6",
+    "volatility_cv_6",
+    "robust_spike_score",
+    "spike_risk_flag",
+    "seasonal_baseline_same_month",
+    "seasonal_lift",
+    "valid_observations_so_far",
+    "series_has_enough_history",
+    "nonzero_observation_count_so_far",
+    "series_sparsity_so_far",
+    "regional_gini",
+    "regional_concentration_available",
+    "search_category_count",
+    "search_diversity_available",
+    "event_lift",
+    "event_nearby",
+    "cross_platform_confirmation_score",
+    "cross_platform_available",
+    "opportunity_screening_score",
+    "prediction_reliability"
+  ],
+  "feature_availability": {
+    "momentum_consistency_volatility_spike_risk": "calculated from available trend series",
+    "seasonal_lift": "calculated where historical same-month observations exist",
+    "regional_concentration": "only calculated when state/region column exists and comparable values exist",
+    "search_diversity": "only calculated when query/category column exists",
+    "event_lift": "requires optional events.csv with event_date and optionally title",
+    "cross_platform_confirmation": "requires optional cross_platform.csv with title/date and engagement metric columns",
+    "absolute_search_volume": "not available from normalized Google Trends index"
+  },
+  "cautions": [
+    "Google Trends indices are normalized relative interest, not absolute search counts.",
+    "A one-off non-zero observation is not sufficient evidence of a breakout.",
+    "Opportunity screening score is a transparent heuristic, not a calibrated probability.",
+    "IMDb title ratings are not joined to anime records unless a matching IMDb tconst key exists.",
+    "Video game sales are kept as a separate dataset unless a defensible title mapping is provided."
+  ],
+  "outputs": {
+    "trend_features": "outputs\\safora_trend_features.csv",
+    "anime_metadata_features": "outputs\\safora_anime_metadata_features.csv",
+    "video_game_sales": "outputs\\video_game_sales_clean.csv"
+  }
+}
