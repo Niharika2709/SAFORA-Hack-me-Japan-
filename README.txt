@@ -1,49 +1,29 @@
-SAFORA — React + Vite frontend and FastAPI backend
-==================================================
-Requirements: Python 3.10+ and Node.js LTS (npm included).
+SAFORA ALL-DIMENSIONS PREPROCESSED DATA PACKAGE
+================================================
 
-PROJECT STRUCTURE
-backend/main.py        FastAPI endpoints
-backend/analytics.py   Reusable data cleaning, opportunity score, Rising Stars and forecast logic
-backend/requirements.txt
-frontend/               React + Vite website
-frontend/src/App.jsx    Dashboard and interactions
-frontend/src/styles.css Responsive cream/lavender/plum design
+This package focuses on regional, language-format, gender, age, manga, music/J-Pop, anime, Google Trends, and gaming data.
 
-WINDOWS / VS CODE SETUP
-1. Extract the ZIP, then open the extracted SAFORA_React_FastAPI folder in VS Code.
-2. Open Terminal > New Terminal.
+DATA ACTUALLY AVAILABLE AND CLEANED
+- Regional: Google Trends region scores for Japanese media + survey respondent counts by reported location.
+- Demographics: age/gender/state and anime awareness/watcher status from the uploaded audience survey. Names are excluded.
+- Language-format: subbed/dubbed/both survey preferences. No explicit language labels were supplied.
+- Manga: survey responses about manga reading and manga/manhwa/manhua/novel preference. This is NOT a manga catalogue.
+- Anime: cleaned catalogue variants and user-rating table.
+- Google Trends: cleaned wide and long time series, with date and numeric interest fields.
+- Gaming: cleaned video-game sales data extracted from the uploaded archive.
 
-BACKEND TERMINAL (keep running):
-   cd backend
-   py -m venv .venv
-   .\.venv\Scripts\python.exe -m pip install -r requirements.txt
-   .\.venv\Scripts\python.exe -m uvicorn main:app --reload --host 127.0.0.1 --port 8000
+IMPORTANT DATA GAPS (NOT FABRICATED)
+- J-Pop Spotify source is now specified by the user. `music_jpop/prepare_jpop_spotify.py` downloads and preprocesses the actual Hugging Face dataset into SAFORA's data/raw and data/processed folders. The real CSV bytes were not accessible to this packaging runtime, so the package does not pretend that the empty schema template contains music records. Run the script to generate the real cleaned dataset.
+- No title-level manga catalogue was uploaded. An empty schema template is provided, clearly labelled TEMPLATE_ONLY. Current manga outputs are survey-only.
+- No explicit preferred-language field (e.g. Hindi/Japanese/English) exists in the survey. Subbed/dubbed preference is not equivalent to language.
+- The survey is a small self-reported sample and should not be interpreted as representative of the Indian population.
+- Google Trends values are relative search-interest indices, not sales, streaming counts, or revenue.
+- Some regional survey responses are city-like or inconsistently formatted; they are preserved as reported rather than guessed into state names.
 
-FRONTEND: open a SECOND terminal (keep both terminals running):
-   cd frontend
-   npm install
-   npm run dev
-
-Open the URL printed by Vite, usually http://127.0.0.1:5173
-API documentation: http://127.0.0.1:8000/docs
-
-CSV FORMAT
-Required columns: title, search_interest (numeric 0-100)
-Optional: month, rating, reviews, engagement, category, language, region.
-Common aliases like name/content, date/timestamp, score/trend, ratings, review_count, type/genre are normalized.
-
-FEATURES
-- Responsive React dashboard with collapsible plum sidebar and lavender/cream/sakura theme
-- KPI cards, audience-interest area chart, opportunity donut chart
-- Search/sort/export content ranking
-- Category and date filters
-- CSV upload to local FastAPI backend
-- Rising Stars period comparison
-- Language and region signals
-- Linear regression baseline forecast with chronological holdout MAE/RMSE
-- Methodology and limitations page
-
-DATA HONESTY
-Built-in data is synthetic demonstration data, not real Japanese market research. Uploaded CSV is kept in backend memory only and resets when the backend restarts; no database is configured. Forecasts are simple baselines, not guaranteed predictions.
-Ports: frontend 5173, backend 8000.
+Preprocessing
+- Standardized column names; trimmed text; normalized blank/missing values.
+- Parsed dates and numeric measures.
+- Removed duplicate rows or duplicate entity IDs where appropriate.
+- Kept missing observations as missing; no synthetic rows/values were invented.
+- Generated long-form time series for query-based modelling.
+- No train/test split, scaling, model training or feature selection has been performed; those are model-pipeline steps.

@@ -1,0 +1,5 @@
+Official J-Pop source supplied by the user:
+https://huggingface.co/datasets/sdy623/JPOP-Sampled-Spotify
+
+The source dataset has 5,213 rows and 16 columns according to the Hugging Face dataset viewer.
+This package does not contain a fabricated copy of those rows. Run prepare_jpop_spotify.py from the SAFORA project root after installing `datasets` and `pandas`; it downloads the real train split and writes data/raw/jpop_spotify_raw.csv and data/processed/jpop_spotify_clean.csv.

@@ -1,0 +1,1 @@
+Available uploaded survey has subbed/dubbed/both preferences but no explicit preferred language (e.g. Japanese, Hindi, English). These cleaned files therefore represent subtitle/dubbing format, not language-specific demand. Upload a language-level dataset if you need language-by-region or language-by-age analysis.

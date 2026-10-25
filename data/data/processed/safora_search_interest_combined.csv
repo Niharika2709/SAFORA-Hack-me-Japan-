@@ -1,0 +1,1049 @@
+week,query,country,search_interest,source
+2021-10-24,anime,India,33,Google Trends
+2021-10-24,j pop,India,0,Google Trends
+2021-10-24,japnese music,India,0,Google Trends
+2021-10-24,manga,India,57,Google Trends
+2021-10-31,anime,India,33,Google Trends
+2021-10-31,j pop,India,49,Google Trends
+2021-10-31,japnese music,India,0,Google Trends
+2021-10-31,manga,India,57,Google Trends
+2021-11-07,anime,India,33,Google Trends
+2021-11-07,j pop,India,33,Google Trends
+2021-11-07,japnese music,India,0,Google Trends
+2021-11-07,manga,India,57,Google Trends
+2021-11-14,anime,India,34,Google Trends
+2021-11-14,j pop,India,34,Google Trends
+2021-11-14,japnese music,India,0,Google Trends
+2021-11-14,manga,India,58,Google Trends
+2021-11-21,anime,India,32,Google Trends
+2021-11-21,j pop,India,29,Google Trends
+2021-11-21,japnese music,India,0,Google Trends
+2021-11-21,manga,India,57,Google Trends
+2021-11-28,anime,India,32,Google Trends
+2021-11-28,j pop,India,40,Google Trends
+2021-11-28,japnese music,India,0,Google Trends
+2021-11-28,manga,India,55,Google Trends
+2021-12-05,anime,India,33,Google Trends
+2021-12-05,j pop,India,40,Google Trends
+2021-12-05,japnese music,India,0,Google Trends
+2021-12-05,manga,India,57,Google Trends
+2021-12-12,anime,India,33,Google Trends
+2021-12-12,j pop,India,55,Google Trends
+2021-12-12,japnese music,India,0,Google Trends
+2021-12-12,manga,India,59,Google Trends
+2021-12-19,anime,India,35,Google Trends
+2021-12-19,j pop,India,0,Google Trends
+2021-12-19,japnese music,India,0,Google Trends
+2021-12-19,manga,India,59,Google Trends
+2021-12-26,anime,India,34,Google Trends
+2021-12-26,j pop,India,0,Google Trends
+2021-12-26,japnese music,India,0,Google Trends
+2021-12-26,manga,India,58,Google Trends
+2022-01-02,anime,India,36,Google Trends
+2022-01-02,j pop,India,33,Google Trends
+2022-01-02,japnese music,India,0,Google Trends
+2022-01-02,manga,India,62,Google Trends
+2022-01-09,anime,India,37,Google Trends
+2022-01-09,j pop,India,28,Google Trends
+2022-01-09,japnese music,India,0,Google Trends
+2022-01-09,manga,India,66,Google Trends
+2022-01-16,anime,India,39,Google Trends
+2022-01-16,j pop,India,28,Google Trends
+2022-01-16,japnese music,India,0,Google Trends
+2022-01-16,manga,India,65,Google Trends
+2022-01-23,anime,India,39,Google Trends
+2022-01-23,j pop,India,25,Google Trends
+2022-01-23,japnese music,India,0,Google Trends
+2022-01-23,manga,India,68,Google Trends
+2022-01-30,anime,India,37,Google Trends
+2022-01-30,j pop,India,31,Google Trends
+2022-01-30,japnese music,India,0,Google Trends
+2022-01-30,manga,India,70,Google Trends
+2022-02-06,anime,India,35,Google Trends
+2022-02-06,j pop,India,31,Google Trends
+2022-02-06,japnese music,India,0,Google Trends
+2022-02-06,manga,India,66,Google Trends
+2022-02-13,anime,India,37,Google Trends
+2022-02-13,j pop,India,44,Google Trends
+2022-02-13,japnese music,India,0,Google Trends
+2022-02-13,manga,India,67,Google Trends
+2022-02-20,anime,India,36,Google Trends
+2022-02-20,j pop,India,33,Google Trends
+2022-02-20,japnese music,India,0,Google Trends
+2022-02-20,manga,India,67,Google Trends
+2022-02-27,anime,India,37,Google Trends
+2022-02-27,j pop,India,40,Google Trends
+2022-02-27,japnese music,India,0,Google Trends
+2022-02-27,manga,India,68,Google Trends
+2022-03-06,anime,India,37,Google Trends
+2022-03-06,j pop,India,42,Google Trends
+2022-03-06,japnese music,India,0,Google Trends
+2022-03-06,manga,India,66,Google Trends
+2022-03-13,anime,India,40,Google Trends
+2022-03-13,j pop,India,20,Google Trends
+2022-03-13,japnese music,India,100,Google Trends
+2022-03-13,manga,India,76,Google Trends
+2022-03-20,anime,India,41,Google Trends
+2022-03-20,j pop,India,30,Google Trends
+2022-03-20,japnese music,India,0,Google Trends
+2022-03-20,manga,India,70,Google Trends
+2022-03-27,anime,India,40,Google Trends
+2022-03-27,j pop,India,26,Google Trends
+2022-03-27,japnese music,India,0,Google Trends
+2022-03-27,manga,India,71,Google Trends
+2022-04-03,anime,India,40,Google Trends
+2022-04-03,j pop,India,30,Google Trends
+2022-04-03,japnese music,India,0,Google Trends
+2022-04-03,manga,India,71,Google Trends
+2022-04-10,anime,India,42,Google Trends
+2022-04-10,j pop,India,37,Google Trends
+2022-04-10,japnese music,India,0,Google Trends
+2022-04-10,manga,India,72,Google Trends
+2022-04-17,anime,India,41,Google Trends
+2022-04-17,j pop,India,35,Google Trends
+2022-04-17,japnese music,India,0,Google Trends
+2022-04-17,manga,India,72,Google Trends
+2022-04-24,anime,India,42,Google Trends
+2022-04-24,j pop,India,37,Google Trends
+2022-04-24,japnese music,India,0,Google Trends
+2022-04-24,manga,India,70,Google Trends
+2022-05-01,anime,India,40,Google Trends
+2022-05-01,j pop,India,17,Google Trends
+2022-05-01,japnese music,India,0,Google Trends
+2022-05-01,manga,India,70,Google Trends
+2022-05-08,anime,India,41,Google Trends
+2022-05-08,j pop,India,36,Google Trends
+2022-05-08,japnese music,India,0,Google Trends
+2022-05-08,manga,India,68,Google Trends
+2022-05-15,anime,India,38,Google Trends
+2022-05-15,j pop,India,38,Google Trends
+2022-05-15,japnese music,India,0,Google Trends
+2022-05-15,manga,India,67,Google Trends
+2022-05-22,anime,India,39,Google Trends
+2022-05-22,j pop,India,43,Google Trends
+2022-05-22,japnese music,India,0,Google Trends
+2022-05-22,manga,India,68,Google Trends
+2022-05-29,anime,India,39,Google Trends
+2022-05-29,j pop,India,28,Google Trends
+2022-05-29,japnese music,India,0,Google Trends
+2022-05-29,manga,India,69,Google Trends
+2022-06-05,anime,India,39,Google Trends
+2022-06-05,j pop,India,35,Google Trends
+2022-06-05,japnese music,India,0,Google Trends
+2022-06-05,manga,India,68,Google Trends
+2022-06-12,anime,India,38,Google Trends
+2022-06-12,j pop,India,48,Google Trends
+2022-06-12,japnese music,India,0,Google Trends
+2022-06-12,manga,India,70,Google Trends
+2022-06-19,anime,India,38,Google Trends
+2022-06-19,j pop,India,28,Google Trends
+2022-06-19,japnese music,India,0,Google Trends
+2022-06-19,manga,India,70,Google Trends
+2022-06-26,anime,India,38,Google Trends
+2022-06-26,j pop,India,31,Google Trends
+2022-06-26,japnese music,India,0,Google Trends
+2022-06-26,manga,India,68,Google Trends
+2022-07-03,anime,India,39,Google Trends
+2022-07-03,j pop,India,30,Google Trends
+2022-07-03,japnese music,India,0,Google Trends
+2022-07-03,manga,India,71,Google Trends
+2022-07-10,anime,India,38,Google Trends
+2022-07-10,j pop,India,31,Google Trends
+2022-07-10,japnese music,India,0,Google Trends
+2022-07-10,manga,India,69,Google Trends
+2022-07-17,anime,India,37,Google Trends
+2022-07-17,j pop,India,24,Google Trends
+2022-07-17,japnese music,India,0,Google Trends
+2022-07-17,manga,India,69,Google Trends
+2022-07-24,anime,India,36,Google Trends
+2022-07-24,j pop,India,27,Google Trends
+2022-07-24,japnese music,India,0,Google Trends
+2022-07-24,manga,India,66,Google Trends
+2022-07-31,anime,India,37,Google Trends
+2022-07-31,j pop,India,25,Google Trends
+2022-07-31,japnese music,India,0,Google Trends
+2022-07-31,manga,India,69,Google Trends
+2022-08-07,anime,India,41,Google Trends
+2022-08-07,j pop,India,29,Google Trends
+2022-08-07,japnese music,India,0,Google Trends
+2022-08-07,manga,India,67,Google Trends
+2022-08-14,anime,India,40,Google Trends
+2022-08-14,j pop,India,25,Google Trends
+2022-08-14,japnese music,India,0,Google Trends
+2022-08-14,manga,India,72,Google Trends
+2022-08-21,anime,India,37,Google Trends
+2022-08-21,j pop,India,31,Google Trends
+2022-08-21,japnese music,India,0,Google Trends
+2022-08-21,manga,India,66,Google Trends
+2022-08-28,anime,India,36,Google Trends
+2022-08-28,j pop,India,29,Google Trends
+2022-08-28,japnese music,India,0,Google Trends
+2022-08-28,manga,India,69,Google Trends
+2022-09-04,anime,India,36,Google Trends
+2022-09-04,j pop,India,17,Google Trends
+2022-09-04,japnese music,India,0,Google Trends
+2022-09-04,manga,India,65,Google Trends
+2022-09-11,anime,India,37,Google Trends
+2022-09-11,j pop,India,34,Google Trends
+2022-09-11,japnese music,India,0,Google Trends
+2022-09-11,manga,India,64,Google Trends
+2022-09-18,anime,India,36,Google Trends
+2022-09-18,j pop,India,34,Google Trends
+2022-09-18,japnese music,India,0,Google Trends
+2022-09-18,manga,India,64,Google Trends
+2022-09-25,anime,India,38,Google Trends
+2022-09-25,j pop,India,27,Google Trends
+2022-09-25,japnese music,India,0,Google Trends
+2022-09-25,manga,India,62,Google Trends
+2022-10-02,anime,India,44,Google Trends
+2022-10-02,j pop,India,27,Google Trends
+2022-10-02,japnese music,India,0,Google Trends
+2022-10-02,manga,India,71,Google Trends
+2022-10-09,anime,India,41,Google Trends
+2022-10-09,j pop,India,33,Google Trends
+2022-10-09,japnese music,India,0,Google Trends
+2022-10-09,manga,India,64,Google Trends
+2022-10-16,anime,India,43,Google Trends
+2022-10-16,j pop,India,0,Google Trends
+2022-10-16,japnese music,India,0,Google Trends
+2022-10-16,manga,India,64,Google Trends
+2022-10-23,anime,India,46,Google Trends
+2022-10-23,j pop,India,34,Google Trends
+2022-10-23,japnese music,India,0,Google Trends
+2022-10-23,manga,India,73,Google Trends
+2022-10-30,anime,India,41,Google Trends
+2022-10-30,j pop,India,18,Google Trends
+2022-10-30,japnese music,India,0,Google Trends
+2022-10-30,manga,India,63,Google Trends
+2022-11-06,anime,India,40,Google Trends
+2022-11-06,j pop,India,29,Google Trends
+2022-11-06,japnese music,India,0,Google Trends
+2022-11-06,manga,India,61,Google Trends
+2022-11-13,anime,India,39,Google Trends
+2022-11-13,j pop,India,23,Google Trends
+2022-11-13,japnese music,India,0,Google Trends
+2022-11-13,manga,India,65,Google Trends
+2022-11-20,anime,India,37,Google Trends
+2022-11-20,j pop,India,39,Google Trends
+2022-11-20,japnese music,India,0,Google Trends
+2022-11-20,manga,India,65,Google Trends
+2022-11-27,anime,India,41,Google Trends
+2022-11-27,j pop,India,23,Google Trends
+2022-11-27,japnese music,India,0,Google Trends
+2022-11-27,manga,India,69,Google Trends
+2022-12-04,anime,India,40,Google Trends
+2022-12-04,j pop,India,29,Google Trends
+2022-12-04,japnese music,India,0,Google Trends
+2022-12-04,manga,India,63,Google Trends
+2022-12-11,anime,India,42,Google Trends
+2022-12-11,j pop,India,29,Google Trends
+2022-12-11,japnese music,India,0,Google Trends
+2022-12-11,manga,India,62,Google Trends
+2022-12-18,anime,India,47,Google Trends
+2022-12-18,j pop,India,38,Google Trends
+2022-12-18,japnese music,India,0,Google Trends
+2022-12-18,manga,India,67,Google Trends
+2022-12-25,anime,India,53,Google Trends
+2022-12-25,j pop,India,28,Google Trends
+2022-12-25,japnese music,India,0,Google Trends
+2022-12-25,manga,India,78,Google Trends
+2023-01-01,anime,India,45,Google Trends
+2023-01-01,j pop,India,0,Google Trends
+2023-01-01,japnese music,India,0,Google Trends
+2023-01-01,manga,India,70,Google Trends
+2023-01-08,anime,India,46,Google Trends
+2023-01-08,j pop,India,26,Google Trends
+2023-01-08,japnese music,India,0,Google Trends
+2023-01-08,manga,India,71,Google Trends
+2023-01-15,anime,India,44,Google Trends
+2023-01-15,j pop,India,23,Google Trends
+2023-01-15,japnese music,India,0,Google Trends
+2023-01-15,manga,India,72,Google Trends
+2023-01-22,anime,India,47,Google Trends
+2023-01-22,j pop,India,33,Google Trends
+2023-01-22,japnese music,India,0,Google Trends
+2023-01-22,manga,India,78,Google Trends
+2023-01-29,anime,India,47,Google Trends
+2023-01-29,j pop,India,22,Google Trends
+2023-01-29,japnese music,India,0,Google Trends
+2023-01-29,manga,India,68,Google Trends
+2023-02-05,anime,India,45,Google Trends
+2023-02-05,j pop,India,0,Google Trends
+2023-02-05,japnese music,India,0,Google Trends
+2023-02-05,manga,India,75,Google Trends
+2023-02-12,anime,India,47,Google Trends
+2023-02-12,j pop,India,34,Google Trends
+2023-02-12,japnese music,India,0,Google Trends
+2023-02-12,manga,India,71,Google Trends
+2023-02-19,anime,India,47,Google Trends
+2023-02-19,j pop,India,27,Google Trends
+2023-02-19,japnese music,India,0,Google Trends
+2023-02-19,manga,India,78,Google Trends
+2023-02-26,anime,India,50,Google Trends
+2023-02-26,j pop,India,36,Google Trends
+2023-02-26,japnese music,India,0,Google Trends
+2023-02-26,manga,India,72,Google Trends
+2023-03-05,anime,India,55,Google Trends
+2023-03-05,j pop,India,36,Google Trends
+2023-03-05,japnese music,India,0,Google Trends
+2023-03-05,manga,India,78,Google Trends
+2023-03-12,anime,India,51,Google Trends
+2023-03-12,j pop,India,39,Google Trends
+2023-03-12,japnese music,India,0,Google Trends
+2023-03-12,manga,India,81,Google Trends
+2023-03-19,anime,India,53,Google Trends
+2023-03-19,j pop,India,31,Google Trends
+2023-03-19,japnese music,India,0,Google Trends
+2023-03-19,manga,India,77,Google Trends
+2023-03-26,anime,India,52,Google Trends
+2023-03-26,j pop,India,25,Google Trends
+2023-03-26,japnese music,India,0,Google Trends
+2023-03-26,manga,India,76,Google Trends
+2023-04-02,anime,India,53,Google Trends
+2023-04-02,j pop,India,22,Google Trends
+2023-04-02,japnese music,India,0,Google Trends
+2023-04-02,manga,India,76,Google Trends
+2023-04-09,anime,India,53,Google Trends
+2023-04-09,j pop,India,29,Google Trends
+2023-04-09,japnese music,India,0,Google Trends
+2023-04-09,manga,India,79,Google Trends
+2023-04-16,anime,India,53,Google Trends
+2023-04-16,j pop,India,25,Google Trends
+2023-04-16,japnese music,India,0,Google Trends
+2023-04-16,manga,India,82,Google Trends
+2023-04-23,anime,India,57,Google Trends
+2023-04-23,j pop,India,42,Google Trends
+2023-04-23,japnese music,India,0,Google Trends
+2023-04-23,manga,India,78,Google Trends
+2023-04-30,anime,India,54,Google Trends
+2023-04-30,j pop,India,18,Google Trends
+2023-04-30,japnese music,India,0,Google Trends
+2023-04-30,manga,India,74,Google Trends
+2023-05-07,anime,India,52,Google Trends
+2023-05-07,j pop,India,36,Google Trends
+2023-05-07,japnese music,India,0,Google Trends
+2023-05-07,manga,India,73,Google Trends
+2023-05-14,anime,India,50,Google Trends
+2023-05-14,j pop,India,34,Google Trends
+2023-05-14,japnese music,India,0,Google Trends
+2023-05-14,manga,India,72,Google Trends
+2023-05-21,anime,India,53,Google Trends
+2023-05-21,j pop,India,0,Google Trends
+2023-05-21,japnese music,India,0,Google Trends
+2023-05-21,manga,India,77,Google Trends
+2023-05-28,anime,India,51,Google Trends
+2023-05-28,j pop,India,25,Google Trends
+2023-05-28,japnese music,India,0,Google Trends
+2023-05-28,manga,India,80,Google Trends
+2023-06-04,anime,India,55,Google Trends
+2023-06-04,j pop,India,28,Google Trends
+2023-06-04,japnese music,India,0,Google Trends
+2023-06-04,manga,India,78,Google Trends
+2023-06-11,anime,India,55,Google Trends
+2023-06-11,j pop,India,23,Google Trends
+2023-06-11,japnese music,India,0,Google Trends
+2023-06-11,manga,India,85,Google Trends
+2023-06-18,anime,India,55,Google Trends
+2023-06-18,j pop,India,0,Google Trends
+2023-06-18,japnese music,India,0,Google Trends
+2023-06-18,manga,India,79,Google Trends
+2023-06-25,anime,India,59,Google Trends
+2023-06-25,j pop,India,21,Google Trends
+2023-06-25,japnese music,India,0,Google Trends
+2023-06-25,manga,India,80,Google Trends
+2023-07-02,anime,India,60,Google Trends
+2023-07-02,j pop,India,24,Google Trends
+2023-07-02,japnese music,India,0,Google Trends
+2023-07-02,manga,India,83,Google Trends
+2023-07-09,anime,India,61,Google Trends
+2023-07-09,j pop,India,22,Google Trends
+2023-07-09,japnese music,India,0,Google Trends
+2023-07-09,manga,India,93,Google Trends
+2023-07-16,anime,India,58,Google Trends
+2023-07-16,j pop,India,0,Google Trends
+2023-07-16,japnese music,India,0,Google Trends
+2023-07-16,manga,India,89,Google Trends
+2023-07-23,anime,India,59,Google Trends
+2023-07-23,j pop,India,0,Google Trends
+2023-07-23,japnese music,India,0,Google Trends
+2023-07-23,manga,India,86,Google Trends
+2023-07-30,anime,India,55,Google Trends
+2023-07-30,j pop,India,0,Google Trends
+2023-07-30,japnese music,India,0,Google Trends
+2023-07-30,manga,India,81,Google Trends
+2023-08-06,anime,India,60,Google Trends
+2023-08-06,j pop,India,0,Google Trends
+2023-08-06,japnese music,India,0,Google Trends
+2023-08-06,manga,India,81,Google Trends
+2023-08-13,anime,India,56,Google Trends
+2023-08-13,j pop,India,30,Google Trends
+2023-08-13,japnese music,India,0,Google Trends
+2023-08-13,manga,India,83,Google Trends
+2023-08-20,anime,India,58,Google Trends
+2023-08-20,j pop,India,0,Google Trends
+2023-08-20,japnese music,India,0,Google Trends
+2023-08-20,manga,India,84,Google Trends
+2023-08-27,anime,India,57,Google Trends
+2023-08-27,j pop,India,26,Google Trends
+2023-08-27,japnese music,India,0,Google Trends
+2023-08-27,manga,India,79,Google Trends
+2023-09-03,anime,India,57,Google Trends
+2023-09-03,j pop,India,18,Google Trends
+2023-09-03,japnese music,India,0,Google Trends
+2023-09-03,manga,India,81,Google Trends
+2023-09-10,anime,India,48,Google Trends
+2023-09-10,j pop,India,24,Google Trends
+2023-09-10,japnese music,India,0,Google Trends
+2023-09-10,manga,India,73,Google Trends
+2023-09-17,anime,India,59,Google Trends
+2023-09-17,j pop,India,0,Google Trends
+2023-09-17,japnese music,India,0,Google Trends
+2023-09-17,manga,India,92,Google Trends
+2023-09-24,anime,India,58,Google Trends
+2023-09-24,j pop,India,20,Google Trends
+2023-09-24,japnese music,India,0,Google Trends
+2023-09-24,manga,India,88,Google Trends
+2023-10-01,anime,India,61,Google Trends
+2023-10-01,j pop,India,18,Google Trends
+2023-10-01,japnese music,India,0,Google Trends
+2023-10-01,manga,India,89,Google Trends
+2023-10-08,anime,India,57,Google Trends
+2023-10-08,j pop,India,0,Google Trends
+2023-10-08,japnese music,India,0,Google Trends
+2023-10-08,manga,India,77,Google Trends
+2023-10-15,anime,India,61,Google Trends
+2023-10-15,j pop,India,22,Google Trends
+2023-10-15,japnese music,India,0,Google Trends
+2023-10-15,manga,India,82,Google Trends
+2023-10-22,anime,India,65,Google Trends
+2023-10-22,j pop,India,0,Google Trends
+2023-10-22,japnese music,India,0,Google Trends
+2023-10-22,manga,India,87,Google Trends
+2023-10-29,anime,India,52,Google Trends
+2023-10-29,j pop,India,32,Google Trends
+2023-10-29,japnese music,India,0,Google Trends
+2023-10-29,manga,India,79,Google Trends
+2023-11-05,anime,India,61,Google Trends
+2023-11-05,j pop,India,22,Google Trends
+2023-11-05,japnese music,India,0,Google Trends
+2023-11-05,manga,India,78,Google Trends
+2023-11-12,anime,India,62,Google Trends
+2023-11-12,j pop,India,0,Google Trends
+2023-11-12,japnese music,India,0,Google Trends
+2023-11-12,manga,India,85,Google Trends
+2023-11-19,anime,India,57,Google Trends
+2023-11-19,j pop,India,33,Google Trends
+2023-11-19,japnese music,India,0,Google Trends
+2023-11-19,manga,India,79,Google Trends
+2023-11-26,anime,India,59,Google Trends
+2023-11-26,j pop,India,0,Google Trends
+2023-11-26,japnese music,India,0,Google Trends
+2023-11-26,manga,India,82,Google Trends
+2023-12-03,anime,India,59,Google Trends
+2023-12-03,j pop,India,0,Google Trends
+2023-12-03,japnese music,India,0,Google Trends
+2023-12-03,manga,India,74,Google Trends
+2023-12-10,anime,India,56,Google Trends
+2023-12-10,j pop,India,25,Google Trends
+2023-12-10,japnese music,India,0,Google Trends
+2023-12-10,manga,India,73,Google Trends
+2023-12-17,anime,India,58,Google Trends
+2023-12-17,j pop,India,21,Google Trends
+2023-12-17,japnese music,India,0,Google Trends
+2023-12-17,manga,India,76,Google Trends
+2023-12-24,anime,India,71,Google Trends
+2023-12-24,j pop,India,0,Google Trends
+2023-12-24,japnese music,India,0,Google Trends
+2023-12-24,manga,India,81,Google Trends
+2023-12-31,anime,India,63,Google Trends
+2023-12-31,j pop,India,26,Google Trends
+2023-12-31,japnese music,India,0,Google Trends
+2023-12-31,manga,India,79,Google Trends
+2024-01-07,anime,India,61,Google Trends
+2024-01-07,j pop,India,26,Google Trends
+2024-01-07,japnese music,India,0,Google Trends
+2024-01-07,manga,India,84,Google Trends
+2024-01-14,anime,India,65,Google Trends
+2024-01-14,j pop,India,0,Google Trends
+2024-01-14,japnese music,India,0,Google Trends
+2024-01-14,manga,India,92,Google Trends
+2024-01-21,anime,India,64,Google Trends
+2024-01-21,j pop,India,30,Google Trends
+2024-01-21,japnese music,India,0,Google Trends
+2024-01-21,manga,India,92,Google Trends
+2024-01-28,anime,India,61,Google Trends
+2024-01-28,j pop,India,30,Google Trends
+2024-01-28,japnese music,India,0,Google Trends
+2024-01-28,manga,India,88,Google Trends
+2024-02-04,anime,India,58,Google Trends
+2024-02-04,j pop,India,0,Google Trends
+2024-02-04,japnese music,India,0,Google Trends
+2024-02-04,manga,India,83,Google Trends
+2024-02-11,anime,India,63,Google Trends
+2024-02-11,j pop,India,0,Google Trends
+2024-02-11,japnese music,India,0,Google Trends
+2024-02-11,manga,India,85,Google Trends
+2024-02-18,anime,India,67,Google Trends
+2024-02-18,j pop,India,25,Google Trends
+2024-02-18,japnese music,India,0,Google Trends
+2024-02-18,manga,India,89,Google Trends
+2024-02-25,anime,India,65,Google Trends
+2024-02-25,j pop,India,0,Google Trends
+2024-02-25,japnese music,India,0,Google Trends
+2024-02-25,manga,India,88,Google Trends
+2024-03-03,anime,India,67,Google Trends
+2024-03-03,j pop,India,0,Google Trends
+2024-03-03,japnese music,India,0,Google Trends
+2024-03-03,manga,India,90,Google Trends
+2024-03-10,anime,India,65,Google Trends
+2024-03-10,j pop,India,0,Google Trends
+2024-03-10,japnese music,India,0,Google Trends
+2024-03-10,manga,India,87,Google Trends
+2024-03-17,anime,India,68,Google Trends
+2024-03-17,j pop,India,0,Google Trends
+2024-03-17,japnese music,India,0,Google Trends
+2024-03-17,manga,India,88,Google Trends
+2024-03-24,anime,India,66,Google Trends
+2024-03-24,j pop,India,25,Google Trends
+2024-03-24,japnese music,India,0,Google Trends
+2024-03-24,manga,India,91,Google Trends
+2024-03-31,anime,India,73,Google Trends
+2024-03-31,j pop,India,35,Google Trends
+2024-03-31,japnese music,India,0,Google Trends
+2024-03-31,manga,India,87,Google Trends
+2024-04-07,anime,India,71,Google Trends
+2024-04-07,j pop,India,23,Google Trends
+2024-04-07,japnese music,India,0,Google Trends
+2024-04-07,manga,India,94,Google Trends
+2024-04-14,anime,India,70,Google Trends
+2024-04-14,j pop,India,0,Google Trends
+2024-04-14,japnese music,India,0,Google Trends
+2024-04-14,manga,India,95,Google Trends
+2024-04-21,anime,India,66,Google Trends
+2024-04-21,j pop,India,0,Google Trends
+2024-04-21,japnese music,India,0,Google Trends
+2024-04-21,manga,India,90,Google Trends
+2024-04-28,anime,India,66,Google Trends
+2024-04-28,j pop,India,0,Google Trends
+2024-04-28,japnese music,India,0,Google Trends
+2024-04-28,manga,India,87,Google Trends
+2024-05-05,anime,India,71,Google Trends
+2024-05-05,j pop,India,0,Google Trends
+2024-05-05,japnese music,India,0,Google Trends
+2024-05-05,manga,India,87,Google Trends
+2024-05-12,anime,India,69,Google Trends
+2024-05-12,j pop,India,23,Google Trends
+2024-05-12,japnese music,India,0,Google Trends
+2024-05-12,manga,India,86,Google Trends
+2024-05-19,anime,India,70,Google Trends
+2024-05-19,j pop,India,26,Google Trends
+2024-05-19,japnese music,India,0,Google Trends
+2024-05-19,manga,India,96,Google Trends
+2024-05-26,anime,India,74,Google Trends
+2024-05-26,j pop,India,0,Google Trends
+2024-05-26,japnese music,India,0,Google Trends
+2024-05-26,manga,India,95,Google Trends
+2024-06-02,anime,India,64,Google Trends
+2024-06-02,j pop,India,29,Google Trends
+2024-06-02,japnese music,India,0,Google Trends
+2024-06-02,manga,India,88,Google Trends
+2024-06-09,anime,India,67,Google Trends
+2024-06-09,j pop,India,0,Google Trends
+2024-06-09,japnese music,India,0,Google Trends
+2024-06-09,manga,India,89,Google Trends
+2024-06-16,anime,India,71,Google Trends
+2024-06-16,j pop,India,0,Google Trends
+2024-06-16,japnese music,India,0,Google Trends
+2024-06-16,manga,India,92,Google Trends
+2024-06-23,anime,India,64,Google Trends
+2024-06-23,j pop,India,0,Google Trends
+2024-06-23,japnese music,India,0,Google Trends
+2024-06-23,manga,India,87,Google Trends
+2024-06-30,anime,India,65,Google Trends
+2024-06-30,j pop,India,25,Google Trends
+2024-06-30,japnese music,India,0,Google Trends
+2024-06-30,manga,India,93,Google Trends
+2024-07-07,anime,India,63,Google Trends
+2024-07-07,j pop,India,22,Google Trends
+2024-07-07,japnese music,India,0,Google Trends
+2024-07-07,manga,India,88,Google Trends
+2024-07-14,anime,India,65,Google Trends
+2024-07-14,j pop,India,0,Google Trends
+2024-07-14,japnese music,India,0,Google Trends
+2024-07-14,manga,India,84,Google Trends
+2024-07-21,anime,India,61,Google Trends
+2024-07-21,j pop,India,28,Google Trends
+2024-07-21,japnese music,India,0,Google Trends
+2024-07-21,manga,India,87,Google Trends
+2024-07-28,anime,India,61,Google Trends
+2024-07-28,j pop,India,29,Google Trends
+2024-07-28,japnese music,India,0,Google Trends
+2024-07-28,manga,India,81,Google Trends
+2024-08-04,anime,India,62,Google Trends
+2024-08-04,j pop,India,0,Google Trends
+2024-08-04,japnese music,India,0,Google Trends
+2024-08-04,manga,India,82,Google Trends
+2024-08-11,anime,India,64,Google Trends
+2024-08-11,j pop,India,0,Google Trends
+2024-08-11,japnese music,India,0,Google Trends
+2024-08-11,manga,India,88,Google Trends
+2024-08-18,anime,India,65,Google Trends
+2024-08-18,j pop,India,0,Google Trends
+2024-08-18,japnese music,India,0,Google Trends
+2024-08-18,manga,India,85,Google Trends
+2024-08-25,anime,India,67,Google Trends
+2024-08-25,j pop,India,27,Google Trends
+2024-08-25,japnese music,India,0,Google Trends
+2024-08-25,manga,India,81,Google Trends
+2024-09-01,anime,India,64,Google Trends
+2024-09-01,j pop,India,0,Google Trends
+2024-09-01,japnese music,India,0,Google Trends
+2024-09-01,manga,India,78,Google Trends
+2024-09-08,anime,India,66,Google Trends
+2024-09-08,j pop,India,0,Google Trends
+2024-09-08,japnese music,India,0,Google Trends
+2024-09-08,manga,India,81,Google Trends
+2024-09-15,anime,India,61,Google Trends
+2024-09-15,j pop,India,36,Google Trends
+2024-09-15,japnese music,India,0,Google Trends
+2024-09-15,manga,India,86,Google Trends
+2024-09-22,anime,India,61,Google Trends
+2024-09-22,j pop,India,36,Google Trends
+2024-09-22,japnese music,India,0,Google Trends
+2024-09-22,manga,India,81,Google Trends
+2024-09-29,anime,India,64,Google Trends
+2024-09-29,j pop,India,27,Google Trends
+2024-09-29,japnese music,India,0,Google Trends
+2024-09-29,manga,India,82,Google Trends
+2024-10-06,anime,India,67,Google Trends
+2024-10-06,j pop,India,0,Google Trends
+2024-10-06,japnese music,India,0,Google Trends
+2024-10-06,manga,India,84,Google Trends
+2024-10-13,anime,India,64,Google Trends
+2024-10-13,j pop,India,58,Google Trends
+2024-10-13,japnese music,India,0,Google Trends
+2024-10-13,manga,India,83,Google Trends
+2024-10-20,anime,India,64,Google Trends
+2024-10-20,j pop,India,42,Google Trends
+2024-10-20,japnese music,India,0,Google Trends
+2024-10-20,manga,India,81,Google Trends
+2024-10-27,anime,India,70,Google Trends
+2024-10-27,j pop,India,31,Google Trends
+2024-10-27,japnese music,India,0,Google Trends
+2024-10-27,manga,India,93,Google Trends
+2024-11-03,anime,India,64,Google Trends
+2024-11-03,j pop,India,0,Google Trends
+2024-11-03,japnese music,India,0,Google Trends
+2024-11-03,manga,India,83,Google Trends
+2024-11-10,anime,India,63,Google Trends
+2024-11-10,j pop,India,0,Google Trends
+2024-11-10,japnese music,India,0,Google Trends
+2024-11-10,manga,India,83,Google Trends
+2024-11-17,anime,India,60,Google Trends
+2024-11-17,j pop,India,31,Google Trends
+2024-11-17,japnese music,India,0,Google Trends
+2024-11-17,manga,India,84,Google Trends
+2024-11-24,anime,India,61,Google Trends
+2024-11-24,j pop,India,0,Google Trends
+2024-11-24,japnese music,India,0,Google Trends
+2024-11-24,manga,India,83,Google Trends
+2024-12-01,anime,India,64,Google Trends
+2024-12-01,j pop,India,0,Google Trends
+2024-12-01,japnese music,India,0,Google Trends
+2024-12-01,manga,India,81,Google Trends
+2024-12-08,anime,India,69,Google Trends
+2024-12-08,j pop,India,0,Google Trends
+2024-12-08,japnese music,India,0,Google Trends
+2024-12-08,manga,India,84,Google Trends
+2024-12-15,anime,India,68,Google Trends
+2024-12-15,j pop,India,0,Google Trends
+2024-12-15,japnese music,India,0,Google Trends
+2024-12-15,manga,India,87,Google Trends
+2024-12-22,anime,India,76,Google Trends
+2024-12-22,j pop,India,30,Google Trends
+2024-12-22,japnese music,India,0,Google Trends
+2024-12-22,manga,India,85,Google Trends
+2024-12-29,anime,India,72,Google Trends
+2024-12-29,j pop,India,30,Google Trends
+2024-12-29,japnese music,India,0,Google Trends
+2024-12-29,manga,India,96,Google Trends
+2025-01-05,anime,India,73,Google Trends
+2025-01-05,j pop,India,0,Google Trends
+2025-01-05,japnese music,India,0,Google Trends
+2025-01-05,manga,India,90,Google Trends
+2025-01-12,anime,India,79,Google Trends
+2025-01-12,j pop,India,0,Google Trends
+2025-01-12,japnese music,India,0,Google Trends
+2025-01-12,manga,India,90,Google Trends
+2025-01-19,anime,India,72,Google Trends
+2025-01-19,j pop,India,0,Google Trends
+2025-01-19,japnese music,India,0,Google Trends
+2025-01-19,manga,India,89,Google Trends
+2025-01-26,anime,India,77,Google Trends
+2025-01-26,j pop,India,0,Google Trends
+2025-01-26,japnese music,India,0,Google Trends
+2025-01-26,manga,India,87,Google Trends
+2025-02-02,anime,India,78,Google Trends
+2025-02-02,j pop,India,28,Google Trends
+2025-02-02,japnese music,India,0,Google Trends
+2025-02-02,manga,India,93,Google Trends
+2025-02-09,anime,India,75,Google Trends
+2025-02-09,j pop,India,31,Google Trends
+2025-02-09,japnese music,India,0,Google Trends
+2025-02-09,manga,India,87,Google Trends
+2025-02-16,anime,India,81,Google Trends
+2025-02-16,j pop,India,0,Google Trends
+2025-02-16,japnese music,India,0,Google Trends
+2025-02-16,manga,India,88,Google Trends
+2025-02-23,anime,India,81,Google Trends
+2025-02-23,j pop,India,27,Google Trends
+2025-02-23,japnese music,India,0,Google Trends
+2025-02-23,manga,India,88,Google Trends
+2025-03-02,anime,India,82,Google Trends
+2025-03-02,j pop,India,0,Google Trends
+2025-03-02,japnese music,India,0,Google Trends
+2025-03-02,manga,India,91,Google Trends
+2025-03-09,anime,India,91,Google Trends
+2025-03-09,j pop,India,0,Google Trends
+2025-03-09,japnese music,India,0,Google Trends
+2025-03-09,manga,India,100,Google Trends
+2025-03-16,anime,India,100,Google Trends
+2025-03-16,j pop,India,0,Google Trends
+2025-03-16,japnese music,India,0,Google Trends
+2025-03-16,manga,India,100,Google Trends
+2025-03-23,anime,India,89,Google Trends
+2025-03-23,j pop,India,0,Google Trends
+2025-03-23,japnese music,India,0,Google Trends
+2025-03-23,manga,India,85,Google Trends
+2025-03-30,anime,India,98,Google Trends
+2025-03-30,j pop,India,0,Google Trends
+2025-03-30,japnese music,India,0,Google Trends
+2025-03-30,manga,India,90,Google Trends
+2025-04-06,anime,India,88,Google Trends
+2025-04-06,j pop,India,29,Google Trends
+2025-04-06,japnese music,India,0,Google Trends
+2025-04-06,manga,India,86,Google Trends
+2025-04-13,anime,India,86,Google Trends
+2025-04-13,j pop,India,0,Google Trends
+2025-04-13,japnese music,India,0,Google Trends
+2025-04-13,manga,India,86,Google Trends
+2025-04-20,anime,India,73,Google Trends
+2025-04-20,j pop,India,25,Google Trends
+2025-04-20,japnese music,India,0,Google Trends
+2025-04-20,manga,India,80,Google Trends
+2025-04-27,anime,India,76,Google Trends
+2025-04-27,j pop,India,29,Google Trends
+2025-04-27,japnese music,India,0,Google Trends
+2025-04-27,manga,India,81,Google Trends
+2025-05-04,anime,India,73,Google Trends
+2025-05-04,j pop,India,0,Google Trends
+2025-05-04,japnese music,India,0,Google Trends
+2025-05-04,manga,India,80,Google Trends
+2025-05-11,anime,India,79,Google Trends
+2025-05-11,j pop,India,38,Google Trends
+2025-05-11,japnese music,India,0,Google Trends
+2025-05-11,manga,India,80,Google Trends
+2025-05-18,anime,India,71,Google Trends
+2025-05-18,j pop,India,0,Google Trends
+2025-05-18,japnese music,India,0,Google Trends
+2025-05-18,manga,India,80,Google Trends
+2025-05-25,anime,India,77,Google Trends
+2025-05-25,j pop,India,25,Google Trends
+2025-05-25,japnese music,India,0,Google Trends
+2025-05-25,manga,India,78,Google Trends
+2025-06-01,anime,India,77,Google Trends
+2025-06-01,j pop,India,0,Google Trends
+2025-06-01,japnese music,India,0,Google Trends
+2025-06-01,manga,India,82,Google Trends
+2025-06-08,anime,India,76,Google Trends
+2025-06-08,j pop,India,30,Google Trends
+2025-06-08,japnese music,India,0,Google Trends
+2025-06-08,manga,India,80,Google Trends
+2025-06-15,anime,India,74,Google Trends
+2025-06-15,j pop,India,30,Google Trends
+2025-06-15,japnese music,India,0,Google Trends
+2025-06-15,manga,India,79,Google Trends
+2025-06-22,anime,India,73,Google Trends
+2025-06-22,j pop,India,31,Google Trends
+2025-06-22,japnese music,India,0,Google Trends
+2025-06-22,manga,India,79,Google Trends
+2025-06-29,anime,India,73,Google Trends
+2025-06-29,j pop,India,41,Google Trends
+2025-06-29,japnese music,India,0,Google Trends
+2025-06-29,manga,India,77,Google Trends
+2025-07-06,anime,India,75,Google Trends
+2025-07-06,j pop,India,0,Google Trends
+2025-07-06,japnese music,India,0,Google Trends
+2025-07-06,manga,India,80,Google Trends
+2025-07-13,anime,India,74,Google Trends
+2025-07-13,j pop,India,31,Google Trends
+2025-07-13,japnese music,India,0,Google Trends
+2025-07-13,manga,India,81,Google Trends
+2025-07-20,anime,India,73,Google Trends
+2025-07-20,j pop,India,28,Google Trends
+2025-07-20,japnese music,India,0,Google Trends
+2025-07-20,manga,India,77,Google Trends
+2025-07-27,anime,India,75,Google Trends
+2025-07-27,j pop,India,0,Google Trends
+2025-07-27,japnese music,India,0,Google Trends
+2025-07-27,manga,India,82,Google Trends
+2025-08-03,anime,India,75,Google Trends
+2025-08-03,j pop,India,0,Google Trends
+2025-08-03,japnese music,India,0,Google Trends
+2025-08-03,manga,India,75,Google Trends
+2025-08-10,anime,India,81,Google Trends
+2025-08-10,j pop,India,25,Google Trends
+2025-08-10,japnese music,India,0,Google Trends
+2025-08-10,manga,India,80,Google Trends
+2025-08-17,anime,India,76,Google Trends
+2025-08-17,j pop,India,0,Google Trends
+2025-08-17,japnese music,India,0,Google Trends
+2025-08-17,manga,India,75,Google Trends
+2025-08-24,anime,India,79,Google Trends
+2025-08-24,j pop,India,34,Google Trends
+2025-08-24,japnese music,India,0,Google Trends
+2025-08-24,manga,India,76,Google Trends
+2025-08-31,anime,India,78,Google Trends
+2025-08-31,j pop,India,0,Google Trends
+2025-08-31,japnese music,India,0,Google Trends
+2025-08-31,manga,India,79,Google Trends
+2025-09-07,anime,India,76,Google Trends
+2025-09-07,j pop,India,0,Google Trends
+2025-09-07,japnese music,India,0,Google Trends
+2025-09-07,manga,India,75,Google Trends
+2025-09-14,anime,India,77,Google Trends
+2025-09-14,j pop,India,27,Google Trends
+2025-09-14,japnese music,India,0,Google Trends
+2025-09-14,manga,India,78,Google Trends
+2025-09-21,anime,India,74,Google Trends
+2025-09-21,j pop,India,0,Google Trends
+2025-09-21,japnese music,India,0,Google Trends
+2025-09-21,manga,India,78,Google Trends
+2025-09-28,anime,India,91,Google Trends
+2025-09-28,j pop,India,0,Google Trends
+2025-09-28,japnese music,India,0,Google Trends
+2025-09-28,manga,India,89,Google Trends
+2025-10-05,anime,India,77,Google Trends
+2025-10-05,j pop,India,28,Google Trends
+2025-10-05,japnese music,India,0,Google Trends
+2025-10-05,manga,India,81,Google Trends
+2025-10-12,anime,India,80,Google Trends
+2025-10-12,j pop,India,0,Google Trends
+2025-10-12,japnese music,India,0,Google Trends
+2025-10-12,manga,India,76,Google Trends
+2025-10-19,anime,India,91,Google Trends
+2025-10-19,j pop,India,29,Google Trends
+2025-10-19,japnese music,India,0,Google Trends
+2025-10-19,manga,India,88,Google Trends
+2025-10-26,anime,India,78,Google Trends
+2025-10-26,j pop,India,0,Google Trends
+2025-10-26,japnese music,India,0,Google Trends
+2025-10-26,manga,India,79,Google Trends
+2025-11-02,anime,India,78,Google Trends
+2025-11-02,j pop,India,41,Google Trends
+2025-11-02,japnese music,India,0,Google Trends
+2025-11-02,manga,India,75,Google Trends
+2025-11-09,anime,India,76,Google Trends
+2025-11-09,j pop,India,47,Google Trends
+2025-11-09,japnese music,India,0,Google Trends
+2025-11-09,manga,India,75,Google Trends
+2025-11-16,anime,India,81,Google Trends
+2025-11-16,j pop,India,85,Google Trends
+2025-11-16,japnese music,India,0,Google Trends
+2025-11-16,manga,India,81,Google Trends
+2025-11-23,anime,India,82,Google Trends
+2025-11-23,j pop,India,61,Google Trends
+2025-11-23,japnese music,India,0,Google Trends
+2025-11-23,manga,India,79,Google Trends
+2025-11-30,anime,India,74,Google Trends
+2025-11-30,j pop,India,62,Google Trends
+2025-11-30,japnese music,India,0,Google Trends
+2025-11-30,manga,India,79,Google Trends
+2025-12-07,anime,India,82,Google Trends
+2025-12-07,j pop,India,56,Google Trends
+2025-12-07,japnese music,India,0,Google Trends
+2025-12-07,manga,India,77,Google Trends
+2025-12-14,anime,India,80,Google Trends
+2025-12-14,j pop,India,34,Google Trends
+2025-12-14,japnese music,India,0,Google Trends
+2025-12-14,manga,India,78,Google Trends
+2025-12-21,anime,India,88,Google Trends
+2025-12-21,j pop,India,39,Google Trends
+2025-12-21,japnese music,India,0,Google Trends
+2025-12-21,manga,India,82,Google Trends
+2025-12-28,anime,India,90,Google Trends
+2025-12-28,j pop,India,39,Google Trends
+2025-12-28,japnese music,India,0,Google Trends
+2025-12-28,manga,India,80,Google Trends
+2026-01-04,anime,India,95,Google Trends
+2026-01-04,j pop,India,33,Google Trends
+2026-01-04,japnese music,India,0,Google Trends
+2026-01-04,manga,India,78,Google Trends
+2026-01-11,anime,India,93,Google Trends
+2026-01-11,j pop,India,55,Google Trends
+2026-01-11,japnese music,India,0,Google Trends
+2026-01-11,manga,India,81,Google Trends
+2026-01-18,anime,India,83,Google Trends
+2026-01-18,j pop,India,62,Google Trends
+2026-01-18,japnese music,India,0,Google Trends
+2026-01-18,manga,India,80,Google Trends
+2026-01-25,anime,India,88,Google Trends
+2026-01-25,j pop,India,56,Google Trends
+2026-01-25,japnese music,India,93,Google Trends
+2026-01-25,manga,India,80,Google Trends
+2026-02-01,anime,India,80,Google Trends
+2026-02-01,j pop,India,64,Google Trends
+2026-02-01,japnese music,India,0,Google Trends
+2026-02-01,manga,India,72,Google Trends
+2026-02-08,anime,India,76,Google Trends
+2026-02-08,j pop,India,77,Google Trends
+2026-02-08,japnese music,India,0,Google Trends
+2026-02-08,manga,India,78,Google Trends
+2026-02-15,anime,India,84,Google Trends
+2026-02-15,j pop,India,100,Google Trends
+2026-02-15,japnese music,India,0,Google Trends
+2026-02-15,manga,India,78,Google Trends
+2026-02-22,anime,India,83,Google Trends
+2026-02-22,j pop,India,77,Google Trends
+2026-02-22,japnese music,India,0,Google Trends
+2026-02-22,manga,India,75,Google Trends
+2026-03-01,anime,India,87,Google Trends
+2026-03-01,j pop,India,38,Google Trends
+2026-03-01,japnese music,India,0,Google Trends
+2026-03-01,manga,India,76,Google Trends
+2026-03-08,anime,India,87,Google Trends
+2026-03-08,j pop,India,48,Google Trends
+2026-03-08,japnese music,India,0,Google Trends
+2026-03-08,manga,India,74,Google Trends
+2026-03-15,anime,India,100,Google Trends
+2026-03-15,j pop,India,51,Google Trends
+2026-03-15,japnese music,India,0,Google Trends
+2026-03-15,manga,India,74,Google Trends
+2026-03-22,anime,India,86,Google Trends
+2026-03-22,j pop,India,40,Google Trends
+2026-03-22,japnese music,India,0,Google Trends
+2026-03-22,manga,India,71,Google Trends
+2026-03-29,anime,India,85,Google Trends
+2026-03-29,j pop,India,37,Google Trends
+2026-03-29,japnese music,India,0,Google Trends
+2026-03-29,manga,India,73,Google Trends
+2026-04-05,anime,India,83,Google Trends
+2026-04-05,j pop,India,50,Google Trends
+2026-04-05,japnese music,India,0,Google Trends
+2026-04-05,manga,India,70,Google Trends
+2026-04-12,anime,India,87,Google Trends
+2026-04-12,j pop,India,44,Google Trends
+2026-04-12,japnese music,India,0,Google Trends
+2026-04-12,manga,India,71,Google Trends
+2026-04-19,anime,India,79,Google Trends
+2026-04-19,j pop,India,45,Google Trends
+2026-04-19,japnese music,India,0,Google Trends
+2026-04-19,manga,India,70,Google Trends
+2026-04-26,anime,India,88,Google Trends
+2026-04-26,j pop,India,26,Google Trends
+2026-04-26,japnese music,India,0,Google Trends
+2026-04-26,manga,India,74,Google Trends
+2026-05-03,anime,India,82,Google Trends
+2026-05-03,j pop,India,40,Google Trends
+2026-05-03,japnese music,India,0,Google Trends
+2026-05-03,manga,India,67,Google Trends
+2026-05-10,anime,India,82,Google Trends
+2026-05-10,j pop,India,55,Google Trends
+2026-05-10,japnese music,India,0,Google Trends
+2026-05-10,manga,India,69,Google Trends
+2026-05-17,anime,India,80,Google Trends
+2026-05-17,j pop,India,41,Google Trends
+2026-05-17,japnese music,India,0,Google Trends
+2026-05-17,manga,India,73,Google Trends
+2026-05-24,anime,India,88,Google Trends
+2026-05-24,j pop,India,52,Google Trends
+2026-05-24,japnese music,India,0,Google Trends
+2026-05-24,manga,India,73,Google Trends
+2026-05-31,anime,India,86,Google Trends
+2026-05-31,j pop,India,65,Google Trends
+2026-05-31,japnese music,India,0,Google Trends
+2026-05-31,manga,India,76,Google Trends
+2026-06-07,anime,India,78,Google Trends
+2026-06-07,j pop,India,50,Google Trends
+2026-06-07,japnese music,India,0,Google Trends
+2026-06-07,manga,India,71,Google Trends
+2026-06-14,anime,India,76,Google Trends
+2026-06-14,j pop,India,33,Google Trends
+2026-06-14,japnese music,India,0,Google Trends
+2026-06-14,manga,India,69,Google Trends
+2026-06-21,anime,India,81,Google Trends
+2026-06-21,j pop,India,59,Google Trends
+2026-06-21,japnese music,India,0,Google Trends
+2026-06-21,manga,India,70,Google Trends
+2026-06-28,anime,India,74,Google Trends
+2026-06-28,j pop,India,62,Google Trends
+2026-06-28,japnese music,India,0,Google Trends
+2026-06-28,manga,India,68,Google Trends
+2026-07-05,anime,India,80,Google Trends
+2026-07-05,j pop,India,41,Google Trends
+2026-07-05,japnese music,India,0,Google Trends
+2026-07-05,manga,India,69,Google Trends
+2026-07-12,anime,India,71,Google Trends
+2026-07-12,j pop,India,33,Google Trends
+2026-07-12,japnese music,India,0,Google Trends
+2026-07-12,manga,India,64,Google Trends
+2026-07-19,anime,India,76,Google Trends
+2026-07-19,j pop,India,38,Google Trends
+2026-07-19,japnese music,India,0,Google Trends
+2026-07-19,manga,India,59,Google Trends
+2026-07-26,anime,India,75,Google Trends
+2026-07-26,j pop,India,0,Google Trends
+2026-07-26,japnese music,India,0,Google Trends
+2026-07-26,manga,India,60,Google Trends
+2026-08-02,anime,India,70,Google Trends
+2026-08-02,j pop,India,32,Google Trends
+2026-08-02,japnese music,India,0,Google Trends
+2026-08-02,manga,India,63,Google Trends
+2026-08-09,anime,India,73,Google Trends
+2026-08-09,j pop,India,48,Google Trends
+2026-08-09,japnese music,India,0,Google Trends
+2026-08-09,manga,India,60,Google Trends
+2026-08-16,anime,India,71,Google Trends
+2026-08-16,j pop,India,23,Google Trends
+2026-08-16,japnese music,India,0,Google Trends
+2026-08-16,manga,India,59,Google Trends
+2026-08-23,anime,India,79,Google Trends
+2026-08-23,j pop,India,35,Google Trends
+2026-08-23,japnese music,India,0,Google Trends
+2026-08-23,manga,India,61,Google Trends
+2026-08-30,anime,India,80,Google Trends
+2026-08-30,j pop,India,32,Google Trends
+2026-08-30,japnese music,India,0,Google Trends
+2026-08-30,manga,India,59,Google Trends
+2026-09-06,anime,India,70,Google Trends
+2026-09-06,j pop,India,40,Google Trends
+2026-09-06,japnese music,India,86,Google Trends
+2026-09-06,manga,India,58,Google Trends
+2026-09-13,anime,India,73,Google Trends
+2026-09-13,j pop,India,35,Google Trends
+2026-09-13,japnese music,India,0,Google Trends
+2026-09-13,manga,India,62,Google Trends
+2026-09-20,anime,India,83,Google Trends
+2026-09-20,j pop,India,0,Google Trends
+2026-09-20,japnese music,India,0,Google Trends
+2026-09-20,manga,India,68,Google Trends
+2026-09-27,anime,India,79,Google Trends
+2026-09-27,j pop,India,0,Google Trends
+2026-09-27,japnese music,India,0,Google Trends
+2026-09-27,manga,India,64,Google Trends
+2026-10-04,anime,India,75,Google Trends
+2026-10-04,j pop,India,0,Google Trends
+2026-10-04,japnese music,India,0,Google Trends
+2026-10-04,manga,India,60,Google Trends
+2026-10-11,anime,India,80,Google Trends
+2026-10-11,j pop,India,21,Google Trends
+2026-10-11,japnese music,India,6,Google Trends
+2026-10-11,manga,India,61,Google Trends
+2026-10-18,anime,India,88,Google Trends
+2026-10-18,j pop,India,24,Google Trends
+2026-10-18,japnese music,India,7,Google Trends
+2026-10-18,manga,India,66,Google Trends
+2026-10-25,anime,India,54,Google Trends
+2026-10-25,j pop,India,0,Google Trends
+2026-10-25,japnese music,India,0,Google Trends
+2026-10-25,manga,India,45,Google Trends

@@ -1,0 +1,35 @@
+﻿dataset,source,rows,columns,purpose,preprocessing_notes
+survey/anime_viewer_survey_clean.csv,anime (1).csv,53,26,Full cleaned survey without respondent names,Standardized headers; trimmed text; normalized missing values; exact duplicate rows removed; names excluded from analytical package.
+demographics/anime_audience_demographics_clean.csv,anime (1).csv,53,5,Respondent-level age/gender/state and anime awareness/watcher status,No names included; cleaned age labels; missing values kept.
+demographics/age_gender_counts.csv,anime (1).csv,6,3,Aggregate age by gender counts,"Aggregated counts; small survey sample, not population estimates."
+regional/google_trends_region_interest_clean.csv,geoMap.csv,36,4,State/territory Google Trends interest,Parsed numeric relative-interest scores; missing scores left null; region names preserved as supplied.
+regional/survey_respondents_by_reported_state_clean.csv,anime (1).csv,19,2,Survey respondent location counts,Survey labels retained as reported; entries like city names are not silently mapped to states.
+language/anime_language_and_discovery_preferences.csv,anime (1).csv,53,4,Language format and content discovery preference signals,"Source only records subbed/dubbed/both, not specific spoken language; no language labels invented."
+language/subbed_dubbed_preference_counts.csv,anime (1).csv,4,2,Aggregated subbed/dubbed preference counts,Observed survey counts only.
+manga/manga_and_related_media_preferences.csv,anime (1).csv,53,4,Survey-derived manga/manhwa/manhua/novel preference,"This is audience survey data, not a manga catalogue or manga sales dataset."
+manga/manga_reading_counts.csv,anime (1).csv,4,2,Aggregated survey counts,Observed survey counts only; no imputation.
+manga/manga_related_format_counts.csv,anime (1).csv,5,2,Aggregated survey counts,Observed survey counts only; no imputation.
+google_trends/multitimeline_wide_clean.csv,multiTimeline.csv,274,2,Cleaned Google Trends time series,Parsed dates/numeric scores; removed empty columns; duplicate timestamps removed.
+google_trends/multitimeline_long_clean.csv,multiTimeline.csv,274,5,Long-format trends for time-series modelling,Missing observations excluded; source query names preserved.
+google_trends/multitimeline_1_wide_clean.csv,multiTimeline (1).csv,274,4,Cleaned Google Trends time series,Parsed dates/numeric scores; removed empty columns; duplicate timestamps removed.
+google_trends/multitimeline_1_long_clean.csv,multiTimeline (1).csv,822,5,Long-format trends for time-series modelling,Missing observations excluded; source query names preserved.
+google_trends/time_series_in_20211024_1307_20261024_1307_wide_clean.csv,time_series_IN_20211024-1307_20261024-1307.csv,61,2,Cleaned Google Trends time series,Parsed dates/numeric scores; removed empty columns; duplicate timestamps removed.
+google_trends/time_series_in_20211024_1307_20261024_1307_long_clean.csv,time_series_IN_20211024-1307_20261024-1307.csv,61,5,Long-format trends for time-series modelling,Missing observations excluded; source query names preserved.
+google_trends/time_series_in_20211024_1509_20261024_1509_1_wide_clean.csv,time_series_IN_20211024-1509_20261024-1509(1).csv,61,2,Cleaned Google Trends time series,Parsed dates/numeric scores; removed empty columns; duplicate timestamps removed.
+google_trends/time_series_in_20211024_1509_20261024_1509_1_long_clean.csv,time_series_IN_20211024-1509_20261024-1509(1).csv,61,5,Long-format trends for time-series modelling,Missing observations excluded; source query names preserved.
+google_trends/time_series_in_20211024_1510_20261024_1510_1_1_wide_clean.csv,time_series_IN_20211024-1510_20261024-1510 (1)(1).csv,61,2,Cleaned Google Trends time series,Parsed dates/numeric scores; removed empty columns; duplicate timestamps removed.
+google_trends/time_series_in_20211024_1510_20261024_1510_1_1_long_clean.csv,time_series_IN_20211024-1510_20261024-1510 (1)(1).csv,61,5,Long-format trends for time-series modelling,Missing observations excluded; source query names preserved.
+google_trends/time_series_in_20211024_1510_20261024_1510_2_1_wide_clean.csv,time_series_IN_20211024-1510_20261024-1510 (2)(1).csv,61,2,Cleaned Google Trends time series,Parsed dates/numeric scores; removed empty columns; duplicate timestamps removed.
+google_trends/time_series_in_20211024_1510_20261024_1510_2_1_long_clean.csv,time_series_IN_20211024-1510_20261024-1510 (2)(1).csv,61,5,Long-format trends for time-series modelling,Missing observations excluded; source query names preserved.
+google_trends/time_series_in_20211024_1510_20261024_1510_1_wide_clean.csv,time_series_IN_20211024-1510_20261024-1510(1).csv,61,2,Cleaned Google Trends time series,Parsed dates/numeric scores; removed empty columns; duplicate timestamps removed.
+google_trends/time_series_in_20211024_1510_20261024_1510_1_long_clean.csv,time_series_IN_20211024-1510_20261024-1510(1).csv,61,5,Long-format trends for time-series modelling,Missing observations excluded; source query names preserved.
+google_trends/time_series_in_20261023_1509_20261024_1509_1_wide_clean.csv,time_series_IN_20261023-1509_20261024-1509(1).csv,90,2,Cleaned Google Trends time series,Parsed dates/numeric scores; removed empty columns; duplicate timestamps removed.
+google_trends/time_series_in_20261023_1509_20261024_1509_1_long_clean.csv,time_series_IN_20261023-1509_20261024-1509(1).csv,90,5,Long-format trends for time-series modelling,Missing observations excluded; source query names preserved.
+anime/anime_standalone_clean.csv,anime-standalone.csv,25706,18,Clean anime catalogue,"Normalized headers, numeric types, trimmed text and duplicate IDs removed."
+anime/anime_dataset_clean.csv,anime_dataset(2).csv,29936,29,Clean anime catalogue,"Normalized headers, numeric types, trimmed text and duplicate IDs removed."
+anime/anime_classic_clean.csv,anime(1).csv,12294,7,Clean anime catalogue,"Normalized headers, numeric types, trimmed text and duplicate IDs removed."
+anime/anime_user_ratings_clean.csv,archive (5).zip:rating.csv,7813736,3,User-anime ratings dataset,Typed IDs and ratings; duplicate rows removed.
+gaming/video_game_sales_clean.csv,anime(2).zip:vgsales.csv.zip,16598,11,Video game sales data,Numeric sales/year columns parsed; duplicates removed.
+music_jpop/jpop_spotify_clean_TEMPLATE_ONLY.csv,No source CSV available in current uploads,0,16,EMPTY SCHEMA TEMPLATE ONLY — not real data,Zero rows intentionally; upload actual J-Pop Spotify CSV for preprocessing.
+manga/manga_catalogue_TEMPLATE_ONLY.csv,No manga catalogue CSV available in current uploads,0,17,EMPTY SCHEMA TEMPLATE ONLY — not real data,"Zero rows intentionally; current source supports only survey manga behavior, not manga title-level metrics."
+music_jpop/prepare_jpop_spotify.py,https://huggingface.co/datasets/sdy623/JPOP-Sampled-Spotify,,,Downloader + preprocessing pipeline for actual J-Pop Spotify source,Downloads real train split; validates schema; parses types; removes duplicate track IDs; validates numeric ranges; writes raw and cleaned CSVs.

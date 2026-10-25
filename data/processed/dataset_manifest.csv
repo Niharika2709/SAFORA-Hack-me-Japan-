@@ -1,0 +1,4 @@
+dataset,rows,purpose
+anime_catalogue_clean.csv,29936,Anime catalogue analytics
+google_trends_clean.csv,244,Relative search-interest forecasting
+video_game_sales_clean.csv,16327,Separate historical game-sales analysis
