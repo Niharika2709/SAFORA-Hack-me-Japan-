@@ -5,3 +5,7 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+/data/archive (4).zip
+/anime/anime_user_ratings_clean.csv
+/data/raw/archive (4).zip
+/data/processed/anime/anime_user_ratings_clean.csv
